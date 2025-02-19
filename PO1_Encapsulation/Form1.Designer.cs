@@ -133,7 +133,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(443, 300);
+            ClientSize = new Size(471, 300);
             Controls.Add(btn_puissanceAttaque);
             Controls.Add(btn_seSoigner);
             Controls.Add(btn_attaquer);
